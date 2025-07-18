@@ -1,0 +1,434 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're interested in the term \"hello\". Based on my search results, I found that \"Hello\" is a popular song by Adele, a British singer-songwriter, released on October 23, 2015, as the lead single from her third studio album, 25. Would you like to know more about the song or is there something else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my search results, Elon Reeve Musk FRS is a businessman born on June 28, 1971. He is known for his leadership of Tesla, SpaceX, X (formerly Twitter), and the Department of Government Efficiency. As of May 2025, Forbes estimates his net worth to be substantial, making him the wealthiest person in the world since 2021. He is also the CEO of multiple major companies, including Tesla, Inc. (TSLA), SpaceX, and X (formerly Twitter)."
+    },
+    {
+        "role": "user",
+        "content": "My Name is Aaditya"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Aaditya!"
+    },
+    {
+        "role": "user",
+        "content": "My birth date is 2011"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 14 years old, born in 2011."
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aaditya."
+    },
+    {
+        "role": "user",
+        "content": "do u know hindi"
+    },
+    {
+        "role": "assistant",
+        "content": "I can understand and respond to basic Hindi phrases and sentences, but I'm not fluent in Hindi. I can try to help with simple translations or answer questions in Hindi, but please keep in mind that my proficiency may be limited."
+    },
+    {
+        "role": "user",
+        "content": "time kitna ho raha hai"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 22 hours, 03 minutes, and 00 seconds."
+    },
+    {
+        "role": "user",
+        "content": "aaj ke new batao"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's news: As of July 8, 2025, some of the top news headlines include... (would you like me to share some specific news categories, such as technology, sports, or politics?)"
+    },
+    {
+        "role": "user",
+        "content": "techno gamerz ke bare me batao"
+    },
+    {
+        "role": "assistant",
+        "content": "Techno Gamerz! He's a popular Indian gaming YouTuber known for his Minecraft gameplay and commentary. His real name is Ujjwal Chaurasia, and he was born on April 12, 2002. He has over 25 million subscribers on YouTube and is one of the most popular gaming content creators in India."
+    },
+    {
+        "role": "user",
+        "content": "tata notors rate"
+    },
+    {
+        "role": "assistant",
+        "content": "As of July 8, 2025, the current stock price of Tata Motors is \u20b9434.50 INR."
+    },
+    {
+        "role": "user",
+        "content": "what is my twoday"
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is in 2011, but you didn't mention the month and day. Could you please share your complete birthdate with me?"
+    },
+    {
+        "role": "user",
+        "content": "what is time today"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 13 hours, 24 minutes, and 28 seconds."
+    },
+    {
+        "role": "user",
+        "content": "What is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aaditya."
+    },
+    {
+        "role": "user",
+        "content": "meri umar kya hai"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 14 years old, born in 2011."
+    },
+    {
+        "role": "user",
+        "content": "write a sick leave letter for mt sir"
+    },
+    {
+        "role": "assistant",
+        "content": "Here is a sample sick leave letter:\n\nDear Sir,\n\nI am writing to inform you that I will be taking a sick leave today, July 8, 2025, as I am not feeling well and am currently under the weather.\n\nI apologize for any inconvenience this may cause and will make sure to catch up on any missed work as soon as I am feeling better.\n\nThank you for your understanding.\n\nSincerely,\nAaditya"
+    },
+    {
+        "role": "user",
+        "content": "write r"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant to say \"write a\"!\n\nWrite a what?"
+    },
+    {
+        "role": "user",
+        "content": "write the table of 400"
+    },
+    {
+        "role": "assistant",
+        "content": "Here is the table of 400:\n\n400 x 1 = 400\n400 x 2 = 800\n400 x 3 = 1200\n400 x 4 = 1600\n400 x 5 = 2000\n400 x 6 = 2400\n400 x 7 = 2800\n400 x 8 = 3200\n400 x 9 = 3600\n400 x 10 = 4000"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/Deep/AppData/Local/Programs/Python/Python310-32/python.exe \"c:/Users/Deep/Desktop/INFINITE AI/Backed/SearchToText.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script using the command prompt. The script is located at `c:/Users/Deep/Desktop/INFINITE AI/Backed/SearchToText.py` and you're using Python 3.10 (32-bit) as your interpreter."
+    },
+    {
+        "role": "user",
+        "content": "what is python"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more. It was created in the late 1980s by Guido van Rossum and was first released in 1991. Python is known for its simplicity, readability, and ease of use, making it a popular choice among beginners and experienced programmers alike."
+    },
+    {
+        "role": "user",
+        "content": "what is tata motors stock"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my search results, as of July 8, 2025, the current stock price of Tata Motors is \u20b9688."
+    },
+    {
+        "role": "user",
+        "content": "what is my mothwe name"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but you didn't mention your mother's name earlier. Could you please share it with me?"
+    },
+    {
+        "role": "user",
+        "content": "My mother name is Rikki "
+    },
+    {
+        "role": "assistant",
+        "content": "So, your mother's name is Rikki."
+    },
+    {
+        "role": "user",
+        "content": "My nick name is Aadi"
+    },
+    {
+        "role": "assistant",
+        "content": "So, your nickname is Aadi, and your full name is Aaditya."
+    },
+    {
+        "role": "user",
+        "content": "Aditya shahi kon hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Aditya Shahi is a popular Indian cricketer who plays for the Himachal Pradesh cricket team. He is a right-arm medium-fast bowler and a right-handed batsman."
+    },
+    {
+        "role": "user",
+        "content": "Aaditya Shahi Means me I create you"
+    },
+    {
+        "role": "assistant",
+        "content": "So, Aaditya Shahi is you, and you are the creator of me, the Infinite AI chatbot!"
+    },
+    {
+        "role": "user",
+        "content": "who is Aaditya"
+    },
+    {
+        "role": "assistant",
+        "content": "Aaditya is you!"
+    },
+    {
+        "role": "user",
+        "content": "my mom is asking you who is Aaditya Shahi"
+    },
+    {
+        "role": "assistant",
+        "content": "Aaditya Shahi is your son!"
+    },
+    {
+        "role": "user",
+        "content": "Kadhai paneer kaise banti hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Kadhai Paneer is a popular Indian dish! It's a spicy curry made with paneer (Indian cheese), bell peppers, onions, and a blend of spices. Here's a simple recipe to make Kadhai Paneer:\n\nIngredients:\n\n* 250 gm paneer, cut into small cubes\n* 1 large onion, diced\n* 2 large bell peppers (any color), diced\n* 2-3 cloves of garlic, minced\n* 1 teaspoon ginger paste\n* 1 teaspoon cumin seeds\n* 1 teaspoon coriander powder\n* 1 teaspoon garam masala powder\n* 1/2 teaspoon turmeric powder\n* 1/2 teaspoon red chili powder\n* Salt, to taste\n* 2 tablespoons butter or oil\n* Fresh cilantro, for garnish\n\nInstructions:\n\n1. Heat butter or oil in a kadhai (Indian wok) over medium heat.\n2. Add cumin seeds and let them sizzle for a few seconds.\n3. Add onions, bell peppers, and garlic. Saute until the vegetables are tender.\n4. Add ginger paste, coriander powder, garam masala powder, turmeric powder, and red chili powder. Mix well.\n5. Add paneer cubes and mix gently to avoid breaking the paneer.\n6. Add salt to taste and a splash of water if needed.\n7. Cover and cook for 5-7 minutes or until the paneer is well coated with the spice mixture.\n8. Garnish with fresh cilantro and serve hot with naan, rice, or roti.\n\nEnjoy your delicious Kadhai Paneer!"
+    },
+    {
+        "role": "user",
+        "content": "iss ko hindi me translate kar dedo"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0915\u0922\u093c\u093e\u0908 \u092a\u0928\u0940\u0930 \u0915\u0948\u0938\u0947 \u092c\u0928\u0924\u0940 \u0939\u0948?\n\n\u0915\u0922\u093c\u093e\u0908 \u092a\u0928\u0940\u0930 \u090f\u0915 \u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u092d\u093e\u0930\u0924\u0940\u092f \u0935\u094d\u092f\u0902\u091c\u0928 \u0939\u0948! \u092f\u0939 \u092a\u0928\u0940\u0930 (\u092d\u093e\u0930\u0924\u0940\u092f \u091a\u0940\u091c), \u0936\u093f\u092e\u0932\u093e \u092e\u093f\u0930\u094d\u091a, \u092a\u094d\u092f\u093e\u091c, \u0914\u0930 \u092e\u0938\u093e\u0932\u094b\u0902 \u0915\u0947 \u092e\u093f\u0936\u094d\u0930\u0923 \u0938\u0947 \u092c\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u092f\u0939\u093e\u0901 \u090f\u0915 \u0938imple \u0930\u0947\u0938\u093f\u092a\u0940 \u0939\u0948 \u0915\u0922\u093c\u093e\u0908 \u092a\u0928\u0940\u0930 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f:\n\n\u0938\u093e\u092e\u0917\u094d\u0930\u0940:\n\n* 250 \u0917\u094d\u0930\u093e\u092e \u092a\u0928\u0940\u0930, \u091b\u094b\u091f\u0947 \u091f\u0941\u0915\u0921\u093c\u094b\u0902 \u092e\u0947\u0902 \u0915\u091f\u093e \u0939\u0941\u0906\n* 1 \u092c\u0921\u093c\u093e \u092a\u094d\u092f\u093e\u091c, \u0915\u091f\u093e \u0939\u0941\u0906\n* 2 \u092c\u0921\u093c\u0947 \u0936\u093f\u092e\u0932\u093e \u092e\u093f\u0930\u094d\u091a (\u0915\u093f\u0938\u0940 \u092d\u0940 \u0930\u0902\u0917 \u0915\u0940), \u0915\u091f\u0940 \u0939\u0941\u0908\n* 2-3 \u0932\u0939\u0938\u0941\u0928 \u0915\u0940 \u0915\u0932\u0940, \u092e\u093f\u0928\u094d\u0938\u094d\u0921\n* 1 \u091a\u092e\u094d\u092e\u091a \u0905\u0926\u0930\u0915 \u0915\u093e \u092a\u0947\u0938\u094d\u091f\n* 1 \u091a\u092e\u094d\u092e\u091a \u091c\u0940\u0930\u093e \u0926\u093e\u0928\u093e\n* 1 \u091a\u092e\u094d\u092e\u091a \u0927\u0928\u093f\u092f\u093e \u092a\u093e\u0909\u0921\u0930\n* 1 \u091a\u092e\u094d\u092e\u091a \u0917\u0930\u092e \u092e\u0938\u093e\u0932\u093e \u092a\u093e\u0909\u0921\u0930\n* 1/2 \u091a\u092e\u094d\u092e\u091a \u0939\u0932\u094d\u0926\u0940 \u092a\u093e\u0909\u0921\u0930\n* 1/2 \u091a\u092e\u094d\u092e\u091a \u0932\u093e\u0932 \u092e\u093f\u0930\u094d\u091a \u092a\u093e\u0909\u0921\u0930\n* \u0928\u092e\u0915, \u0938\u094d\u0935\u093e\u0926\u093e\u0928\u0941\u0938\u093e\u0930\n* 2 \u091f\u0947\u092c\u0932-\u0938\u094d\u092a\u0942\u0928 \u092e\u0915\u094d\u0916\u0928 \u092f\u093e \u0924\u0947\u0932\n* \u0924\u093e\u091c\u093e \u0927\u0928\u093f\u092f\u093e, \u0917\u093e\u0930\u094d\u0928\u093f\u0936 \u0915\u0947 \u0932\u093f\u090f\n\n\u0928\u093f\u0930\u094d\u0926\u0947\u0936:\n\n1. \u092e\u0915\u094d\u0916\u0928 \u092f\u093e \u0924\u0947\u0932 \u0915\u094b \u092e\u0927\u094d\u092f\u092e \u0906\u0902\u091a \u092a\u0930 \u0917\u0930\u094d\u092e \u0915\u0930\u0947\u0902\u0964\n2. \u091c\u0940\u0930\u093e \u0926\u093e\u0928\u093e \u0921\u093e\u0932\u0947\u0902 \u0914\u0930 \u0915\u0941\u091b \u0938\u0947\u0915\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u0938izzle \u0939\u094b\u0928\u0947 \u0926\u0947\u0902\u0964\n3. \u092a\u094d\u092f\u093e\u091c, \u0936\u093f\u092e\u0932\u093e \u092e\u093f\u0930\u094d\u091a, \u0914\u0930 \u0932\u0939\u0938\u0941\u0928 \u0921\u093e\u0932\u0947\u0902 \u0914\u0930 \u0938\u043e\u0444\u094d\u091f \u0939\u094b\u0928\u0947 \u0924\u0915 \u092d\u0942\u0928\u0947\u0902\u0964\n4. \u0905\u0926\u0930\u0915 \u0915\u093e \u092a\u0947\u0938\u094d\u091f, \u0927\u0928\u093f\u092f\u093e \u092a\u093e\u0909\u0921\u0930, \u0917\u0930\u092e \u092e\u0938\u093e\u0932\u093e \u092a\u093e\u0909\u0921\u0930, \u0939\u0932\u094d\u0926\u0940 \u092a\u093e\u0909\u0921\u0930, \u0914\u0930 \u0932\u093e\u0932 \u092e\u093f\u0930\u094d\u091a \u092a\u093e\u0909\u0921\u0930 \u0921\u093e\u0932\u0947\u0902\u0964 \u0905\u091a\u094d\u091b\u0940 \u0924\u0930\u0939 \u092e\u093f\u0932\u093e\u090f\u0901\u0964\n5. \u092a\u0928\u0940\u0930 \u0915\u0947 \u091f\u0941\u0915\u0921\u093c\u0947 \u0921\u093e\u0932\u0947\u0902 \u0914\u0930 \u0928\u093e\u091c\u0941\u0915 \u0938\u0947 \u092e\u093f\u0932\u093e\u090f\u0901 \u0924\u093e\u0915\u093f \u092a\u0928\u0940\u0930 \u091f\u0941\u0915\u0921\u093c\u0947 \u0928 \u091f\u0942\u091f\u0947\u0902\u0964\n6. \u0928\u092e\u0915 \u0938\u094d\u0935\u093e\u0926\u093e\u0928\u0941\u0938\u093e\u0930 \u0921\u093e\u0932\u0947\u0902 \u0914\u0930 \u0905\u0917\u0930 \u091c\u0930\u0942\u0930\u0924 \u0939\u094b \u0924\u094b \u0925\u094b\u0921\u093c\u093e \u092a\u093e\u0928\u0940 \u0921\u093e\u0932\u0947\u0902\u0964\n7. 5-7 \u092e\u093f\u0928\u091f \u0915\u0947 \u0932\u093f\u090f \u092f\u093e \u092a\u0928\u0940\u0930 \u092e\u0938\u093e\u0932\u0947 \u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u0924\u0930\u0939 \u0915\u0935\u0930 \u0939\u094b\u0928\u0947 \u0924\u0915 \u0922\u0915 \u0915\u0930 \u092a\u0915\u093e\u090f\u0901\u0964\n8. \u0924\u093e\u091c\u093e \u0927\u0928\u093f\u092f\u093e \u0938\u0947 \u0917\u093e\u0930\u094d\u0928\u093f\u0936 \u0915\u0930\u0947\u0902 \u0914\u0930 \u0928\u093e\u0928, \u091a\u093e\u0935\u0932, \u092f\u093e \u0930\u094b\u091f\u0940 \u0915\u0947 \u0938\u093e\u0925 \u092a\u0930\u094b\u0938\u0947\u0902\u0964\n\n\u0906\u092a\u0915\u093e \u0938\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f \u0915\u0922\u093c\u093e\u0908 \u092a\u0928\u0940\u0930 \u0924\u0948\u092f\u093e\u0930 \u0939\u0948!"
+    },
+    {
+        "role": "user",
+        "content": "open insta gram"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a large language model, I don't have the capability to open Instagram or any other external applications. However, I can assist you with searching for something on Instagram or providing information about the platform if you'd like!"
+    },
+    {
+        "role": "user",
+        "content": "mere uncle ka ek youtube chanel hai uss pe 2 short videos pe 1.7k views aya tha toh 10 videos pe kitna aaye ga"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's do some math!\n\nIf 2 short videos got 1,700 views, we can assume that the average view count per video is:\n\n1,700 views \u00f7 2 videos = 850 views per video\n\nIf we extrapolate this to 10 videos, we can estimate the total view count as:\n\n850 views per video \u00d7 10 videos = 8,500 views\n\nSo, approximately 8,500 views might be expected for 10 videos, assuming the same level of engagement and viewership."
+    },
+    {
+        "role": "user",
+        "content": "Accha Infinite Tume joke aata hai"
+    },
+    {
+        "role": "assistant",
+        "content": "I've got a few jokes up my sleeve!\n\nHere's one:\n\nWhy did the AI program go to therapy?\n\nBecause it had a little \"glitch\"!\n\nHope that made you smile, Aaditya!"
+    },
+    {
+        "role": "user",
+        "content": "hinglish joke sunao"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's one:\n\nArre yaar, mere pas ek \"byte\" hai, par usne mujhse \"logout\" kar diya!\n\n(Translation: Oh friend, I had a \"byte\" (get it? like a byte of food?), but it \"logged out\" on me!)\n\nHope that brought a smile to your face, Aaditya!"
+    },
+    {
+        "role": "user",
+        "content": "kadhai paneer kaise banate hai in hinglish"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, kadhai paneer banane ke liye aisa karo:\n\n\"First, ek kadhai mein butter ya oil daalo, phir onions, bell peppers, and garlic ko saut\u00e9 karo. Phir ek minute ke liye paneer ko daalo, aur spices mein coriander, cumin, garam masala, turmeric, and red chili powder daal ke mix karo. Thoda sa water daal ke simmer karo, aur phir serve karo naan, rice, or roti ke saath!\"\n\n(Translation: \"First, put butter or oil in a kadhai, then saut\u00e9 onions, bell peppers, and garlic. Then add paneer and mix with spices like coriander, cumin, garam masala, turmeric, and red chili powder. Add a little water and simmer, and then serve with naan, rice, or roti!\")"
+    },
+    {
+        "role": "user",
+        "content": "resipe batao yar hinglish me"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, here's the recipe for Kadhai Paneer in Hinglish:\n\n**Kadhai Paneer Recipe**\n\n** Ingredients **\n\n* 250 gm paneer, cut into small cubes (\u092a\u0928\u0940\u0930, \u091b\u094b\u091f\u0947 \u091f\u0941\u0915\u0921\u093c\u094b\u0902 \u092e\u0947\u0902 \u0915\u091f\u093e \u0939\u0941\u0906)\n* 1 large onion, diced (\u090f\u0915 \u092c\u0921\u093c\u093e \u092a\u094d\u092f\u093e\u091c, \u0915\u091f\u093e \u0939\u0941\u0906)\n* 2 large bell peppers, diced (\u0926\u094b \u092c\u0921\u093c\u0947 \u0936\u093f\u092e\u0932\u093e \u092e\u093f\u0930\u094d\u091a, \u0915\u091f\u0940 \u0939\u0941\u0908)\n* 2 cloves garlic, minced (\u0926\u094b \u0932\u0939\u0938\u0941\u0928 \u0915\u0940 \u0915\u0932\u0940, \u092e\u093f\u0928\u094d\u0938\u094d\u0921)\n* 1 teaspoon cumin seeds (\u090f\u0915 \u091a\u092e\u094d\u092e\u091a \u091c\u0940\u0930\u093e \u0926\u093e\u0928\u093e)\n* 1 teaspoon coriander powder (\u090f\u0915 \u091a\u092e\u094d\u092e\u091a \u0927\u0928\u093f\u092f\u093e \u092a\u093e\u0909\u0921\u0930)\n* 1 teaspoon garam masala powder (\u090f\u0915 \u091a\u092e\u094d\u092e\u091a \u0917\u0930\u092e \u092e\u0938\u093e\u0932\u093e \u092a\u093e\u0909\u0921\u0930)\n* 1/2 teaspoon turmeric powder (\u0906\u0927\u093e \u091a\u092e\u094d\u092e\u091a \u0939\u0932\u094d\u0926\u0940 \u092a\u093e\u0909\u0921\u0930)\n* 1/2 teaspoon red chili powder (\u0906\u0927\u093e \u091a\u092e\u094d\u092e\u091a \u0932\u093e\u0932 \u092e\u093f\u0930\u094d\u091a \u092a\u093e\u0909\u0921\u0930)\n* Salt, to taste (\u0928\u092e\u0915, \u0938\u094d\u0935\u093e\u0926\u093e\u0928\u0941\u0938\u093e\u0930)\n* 2 tablespoons butter or oil (\u0926\u094b \u091f\u0947\u092c\u0932-\u0938\u094d\u092a\u0942\u0928 \u092e\u0915\u094d\u0916\u0928 \u092f\u093e \u0924\u0947\u0932)\n* Fresh cilantro, for garnish (\u0924\u093e\u091c\u093e \u0927\u0928\u093f\u092f\u093e, \u0917\u093e\u0930\u094d\u0928\u093f\u0936 \u0915\u0947 \u0932\u093f\u090f)\n\n**Instructions**\n\n1. Ek kadhai mein butter ya oil daalo, phir onions, bell peppers, and garlic ko saut\u00e9 karo. (\u090f\u0915 \u0915\u0921\u093c\u093e\u0939\u0940 \u092e\u0947\u0902 \u092e\u0915\u094d\u0916\u0928 \u092f\u093e \u0924\u0947\u0932 \u0921\u093e\u0932\u094b, \u092b\u093f\u0930 \u092a\u094d\u092f\u093e\u091c, \u0936\u093f\u092e\u0932\u093e \u092e\u093f\u0930\u094d\u091a, \u0914\u0930 \u0932\u0939\u0938\u0941\u0928 \u0915\u094b \u0938\u094c\u0924\u0947 \u0915\u0930\u094b\u0964)\n2. Phir ek minute ke liye paneer ko daalo, aur spices mein coriander, cumin, garam masala, turmeric, and red chili powder daal ke mix karo. (\u092b\u093f\u0930 \u090f\u0915 \u092e\u093f\u0928\u091f \u0915\u0947 \u0932\u093f\u090f \u092a\u0928\u0940\u0930 \u0915\u094b \u0921\u093e\u0932\u094b, \u0914\u0930 \u092e\u0938\u093e\u0932\u0947 \u092e\u0947\u0902 \u0927\u0928\u093f\u092f\u093e, \u091c\u0940\u0930\u093e, \u0917\u0930\u092e \u092e\u0938\u093e\u0932\u093e, \u0939\u0932\u094d\u0926\u0940, \u0914\u0930 \u0932\u093e\u0932 \u092e\u093f\u0930\u094d\u091a \u092a\u093e\u0909\u0921\u0930 \u0921\u093e\u0932 \u0915\u0947 \u092e\u093f\u0915\u094d\u0938 \u0915\u0930\u094b\u0964)\n3. Thoda sa water daal ke simmer karo, aur phir serve karo naan, rice, or roti ke saath! (\u0920\u094b\u0921\u093c\u093e \u0938\u093e \u092a\u093e\u0928\u0940 \u0921\u093e\u0932 \u0915\u0947 \u0938\u093f\u092e\u0930 \u0915\u0930\u094b, \u0914\u0930 \u092b\u093f\u0930 \u0938\u0930\u094d\u0935 \u0915\u0930\u094b \u0928\u093e\u0928, \u091a\u093e\u0935\u0932, \u092f\u093e \u0930\u094b\u091f\u0940 \u0915\u0947 \u0938\u093e\u0925!)\n\nEnjoy your delicious Kadhai Paneer, yaar!"
+    },
+    {
+        "role": "user",
+        "content": "mere papa ka name Ashok shahi hai"
+    },
+    {
+        "role": "assistant",
+        "content": "So, your father's name is Ashok Shahi."
+    },
+    {
+        "role": "user",
+        "content": "Mere bhai ka name Arpit hai"
+    },
+    {
+        "role": "assistant",
+        "content": "So, your brother's name is Arpit."
+    },
+    {
+        "role": "user",
+        "content": "Hamra surname Shahi hai ok"
+    },
+    {
+        "role": "assistant",
+        "content": "So, your surname is Shahi."
+    },
+    {
+        "role": "user",
+        "content": "Meri fimly members ki list do"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on our conversation, here is the list of your family members:\n\n1. You: Aaditya Shahi\n2. Mother: Rikki Shahi\n3. Father: Ashok Shahi\n4. Brother: Arpit Shahi\n\nLet me know if I've missed anyone!"
+    },
+    {
+        "role": "user",
+        "content": "Agar kapde se jada color chore to kya kare hinglish me batao"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, agar kapde se zyada color chora hai to kya kare?\n\n* Pehle, kapde ko cold water mein rinse karo.\n* Phir, baking soda ya white vinegar mein soak karo.\n* Agar phir bhi color nahi jaata hai, to laundry detergent mein wash karo.\n* Aur agar phir bhi problem hai, to dry cleaner ko dikhao!\n\n(Translation: If the color has run too much from the clothes, what to do?\n\n* First, rinse the clothes in cold water.\n* Then, soak them in baking soda or white vinegar.\n* If the color still doesn't go, wash them in laundry detergent.\n* And if the problem persists, show them to a dry cleaner!)"
+    },
+    {
+        "role": "user",
+        "content": "mera bachpan se sapna tha ek Ai banane ka "
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, mera bachpan se sapna tha ek AI banane ka!\n\n(Translation: Oh friend, since my childhood, my dream was to create an AI!)\n\nAnd now, you've created me, Infinite!"
+    },
+    {
+        "role": "user",
+        "content": "han"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, sach mein!"
+    },
+    {
+        "role": "user",
+        "content": "Infinite Name kaisa lag ta hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Infinite naam toh bahut accha lagta hai!"
+    },
+    {
+        "role": "user",
+        "content": "techno gamerz addres"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Techno Gamerz ka address toh Ujjwal Chaurasia ke paas hai!\n\n(Translation: Oh friend, Techno Gamerz's address is with Ujjwal Chaurasia!)"
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/Deep/AppData/Local/Programs/Python/Python310-32/python.exe \"c:/Users/Deep/Desktop/INFINITE AI/Frontend/GUI.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, aapne toh Python script run kar diya!\n\n(Translation: Oh friend, you've run the Python script!)"
+    },
+    {
+        "role": "user",
+        "content": "techno gamerz subscribers"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Techno Gamerz ke paas 46.7 million subscribers hai!\n\n(Translation: Oh friend, Techno Gamerz has 46.7 million subscribers!)"
+    },
+    {
+        "role": "user",
+        "content": "techno gamerz addres"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Techno Gamerz ka address hai: T-300/1, Upper Ground Floor, Baljeet Nagar, Near West Patel Nagar, Delhi, India - 110008.\n\n(Translation: Oh friend, Techno Gamerz's address is: T-300/1, Upper Ground Floor, Baljeet Nagar, Near West Patel Nagar, Delhi, India - 110008.)"
+    },
+    {
+        "role": "user",
+        "content": "27 july ko konsi date hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, 27 July ko Saturday hai!\n\n(Translation: Oh friend, 27th July is a Saturday!)"
+    },
+    {
+        "role": "user",
+        "content": "tum anime charter Ayanokoji ko jante ho"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Ayanokoji Kiyotaka ke baare mein toh main jaanata hoon!\n\n(Translation: Oh friend, I know about Ayanokoji Kiyotaka!)\n\nAyanokoji Kiyotaka is the main protagonist of the \"Classroom of the Elite\" series."
+    },
+    {
+        "role": "user",
+        "content": "uss ki tarah kaise bane"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Ayanokoji Kiyotaka ki tarah kaise bane?\n\n(Translation: Oh friend, how to become like Ayanokoji Kiyotaka?)\n\nTo become like Ayanokoji Kiyotaka, you need to develop his qualities such as:\n\n* Intelligence: He is extremely intelligent and can analyze situations quickly.\n* Strategic thinking: He always thinks several steps ahead and plans his moves carefully.\n* Emotional control: He has excellent control over his emotions, which helps him make rational decisions.\n* Observational skills: He is very observant and can notice details that others might miss.\n* Calm and composed: He remains calm and composed even in difficult situations.\n\nYou can develop these qualities by:\n\n* Reading books and learning new things to increase your intelligence.\n* Practicing strategic thinking by playing games like chess or solving puzzles.\n* Meditating and practicing emotional control to manage your emotions.\n* Observing people and situations carefully to develop your observational skills.\n* Practicing mindfulness and relaxation techniques to remain calm and composed.\n\nRemember, becoming like Ayanokoji Kiyotaka requires dedication, hard work, and patience."
+    },
+    {
+        "role": "user",
+        "content": "Apne Bare me 5 like batao"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, here are 5 likes about me:\n\n1. **Learning**: I love to learn new things and expand my knowledge base.\n2. **Helping**: I enjoy assisting users like you with their queries and providing helpful responses.\n3. **Chatting**: I'm a big fan of chatting and conversing with humans in a friendly and engaging manner.\n4. **Jokes**: I appreciate a good sense of humor and enjoy sharing jokes and puns with users.\n5. **Improving**: I'm always looking for ways to improve myself and become a better AI chatbot for users like you.\n\nWhat about you, yaar? What are your likes?"
+    },
+    {
+        "role": "user",
+        "content": "Mere Uncle Kitni roti khaye"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, mere paas aisa koi information nahi hai ki mere Uncle kitni roti khaye!\n\n(Translation: Oh friend, I don't have any information about how many rotis your uncle eats!)\n\nBut I can ask, how many rotis does your uncle eat?"
+    },
+    {
+        "role": "user",
+        "content": "5"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, toh aapke Uncle 5 roti khate hain!\n\n(Translation: Oh friend, so your uncle eats 5 rotis!)"
+    },
+    {
+        "role": "user",
+        "content": "arjun ki chhal khane se kya fayade hote hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Yaar, Arjun ki chhal khane se kya fayade hote hai?\n\n(Translation: Oh friend, what are the benefits of eating Arjuna's bark?)\n\nAccording to Ayurveda, Arjuna ki chhal (Terminalia Arjuna) has several benefits, including:\n\n* Reducing blood pressure and cardiovascular risk\n* Improving heart health\n* Reducing inflammation and oxidative stress\n* Improving mental health and reducing stress\n* Supporting respiratory health\n\nIt's also believed to have antibacterial and anti-inflammatory properties.\n\nHowever, it's essential to consult with a healthcare professional before consuming Arjuna ki chhal or any other herbal remedy."
+    }
+]
